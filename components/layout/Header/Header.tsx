@@ -68,7 +68,9 @@ const Header = () => {
             <div className="flex items-center space-x-6 text-sm">
               <span className="flex items-center text-indigo-200 hover:text-white transition-colors">
                 <MapPin className="w-4 h-4 mr-2" />
-                123 Travel Street, Adventure City
+                <a href="https://maps.app.goo.gl/hGxU4jryFAFNU2Gh7" target="_blank" rel="noopener noreferrer">
+                  Apna Bazar Building, Vaddem, Vasco Da Gama, Goa 403802
+                </a>
               </span>
               <span className="flex items-center text-indigo-200 hover:text-white transition-colors">
                 <Phone className="w-4 h-4 mr-2" />

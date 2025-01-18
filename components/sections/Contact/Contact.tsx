@@ -211,7 +211,11 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <p className="text-indigo-200">Address</p>
-                      <p className="font-semibold">123 Travel Street, Goa, India</p>
+                      <p className="font-semibold">
+                        <a href="https://maps.app.goo.gl/hGxU4jryFAFNU2Gh7" target="_blank" rel="noopener noreferrer">
+                          Apna Bazar Building, Vaddem, Vasco Da Gama, Goa 403802
+                        </a>
+                      </p>
                     </div>
                   </div>
                 </div>
